@@ -3,5 +3,5 @@ package-lock.json
 /pkg
 /pkg.tgz
 .vscode
-DS_Store
+.DS_Store
 companion-module-bonjour-test.code-workspace
