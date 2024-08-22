@@ -4,3 +4,4 @@ package-lock.json
 /pkg.tgz
 .vscode
 DS_Store
+companion-module-bonjour-test.code-workspace
