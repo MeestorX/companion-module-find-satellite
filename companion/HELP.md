@@ -1,3 +1,3 @@
-## Your module
+## Bonjour Test
 
-Write some help for your users here!
+Use this module to automagically find a Satellite instance and set it's IP address to the Companion IP.

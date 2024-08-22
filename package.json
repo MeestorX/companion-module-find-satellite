@@ -11,7 +11,7 @@
 		"url": "www.checkcheckonetwo.com"
 	},
 	"dependencies": {
-		"@companion-module/base": "~1.8.0",
+		"@companion-module/base": "~1.9.0",
 		"bonjour": "^3.5.0"
 	},
 	"devDependencies": {

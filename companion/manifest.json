@@ -3,7 +3,7 @@
 	"name": "Find Satellite",
 	"shortname": "find-satellite",
 	"description": "Auto-Find Satellite and Connect",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"license": "MIT",
 	"repository": "git+https://github.com/meestorx/bonjour-test.git",
 	"bugs": "https://github.com/meestorx/bonjour-test/issues",
@@ -20,7 +20,7 @@
 		"entrypoint": "../main.js"
 	},
 	"legacyIds": [],
-	"manufacturer": "checkcheckonetwo",
+	"manufacturer": "bitfocus",
 	"products": ["satellite"],
 	"keywords": [],
 	"bonjourQueries": {
